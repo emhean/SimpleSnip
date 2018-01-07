@@ -1,0 +1,2 @@
+# SimpleSnip
+A screenshot program
