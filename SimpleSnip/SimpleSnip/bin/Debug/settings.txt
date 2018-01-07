@@ -1,0 +1,7 @@
+# Default mode
+MODE=0
+
+# Mode for taking snips every interval
+# Use MODE=1 at the top, above the comment
+# Choose interval here
+INTERVAL=60

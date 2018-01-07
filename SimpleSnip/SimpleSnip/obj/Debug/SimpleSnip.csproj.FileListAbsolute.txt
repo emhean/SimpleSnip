@@ -1,0 +1,9 @@
+A:\Code\SimpleSnip\SimpleSnip\bin\Debug\SimpleSnip.exe.config
+A:\Code\SimpleSnip\SimpleSnip\bin\Debug\SimpleSnip.exe
+A:\Code\SimpleSnip\SimpleSnip\bin\Debug\SimpleSnip.pdb
+A:\Code\SimpleSnip\SimpleSnip\obj\Debug\SimpleSnip.csprojResolveAssemblyReference.cache
+A:\Code\SimpleSnip\SimpleSnip\obj\Debug\SimpleSnip.mainForm.resources
+A:\Code\SimpleSnip\SimpleSnip\obj\Debug\SimpleSnip.Properties.Resources.resources
+A:\Code\SimpleSnip\SimpleSnip\obj\Debug\SimpleSnip.csproj.GenerateResource.Cache
+A:\Code\SimpleSnip\SimpleSnip\obj\Debug\SimpleSnip.exe
+A:\Code\SimpleSnip\SimpleSnip\obj\Debug\SimpleSnip.pdb
